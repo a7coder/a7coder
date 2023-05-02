@@ -1,14 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif" height=200/>
   <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ayush-kothiyal-2a349a1ba/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -18,7 +12,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDUxOTQyMTJmMjBlYjY3MWViNmJmMTc1NTdkMjQ2YTczYTVkMTJhZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HscDLzkO8EOTmgkhQP/giphy.gif" width="600" height="300"/>
+   <img src="https://drive.google.com/uc?export=view&id=1r-5wtoBk4kzu_3X5ystEDAH3YQPyx_Oj" width='40%' height = "300"/>
 </div>
 
 </div>
@@ -26,19 +20,20 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+I am a Full Stack and Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+- :telescope: I’m a 4th year student pursuing my B.Tech in CSE from I.K.G. Punjab Technical University.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring new technologies everyday.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on GeeksforGeeks and create projects.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-A7Coder-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kothiyal-2a349a1ba/)
 
 
 ---
-
 ### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+
 
 <div>
   
@@ -67,5 +62,5 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a7coder&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
- <img src="https://drive.google.com/uc?export=view&id=1r-5wtoBk4kzu_3X5ystEDAH3YQPyx_Oj" width='100%' height = "700"/>
 
+</div>
